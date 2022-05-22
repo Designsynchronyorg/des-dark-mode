@@ -1,0 +1,36 @@
+{
+  "name": "des-dark-mode",
+  "version": "1.0.0",
+  "description": "A dark mode toggler for tailwind css",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dark",
+    "dark-mode",
+    "dark",
+    "mode",
+    "toggle",
+    "dark",
+    "mode",
+    "feature",
+    "theme",
+    "light",
+    "and",
+    "dark"
+  ],
+  "author": "Design Synchrony",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23",
+    "@babel/core": "^7.17.12",
+    "@babel/preset-env": "^7.17.12",
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
