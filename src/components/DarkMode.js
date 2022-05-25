@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import SvgIcon from '../icons/SvgIcon';
-import { BindThis } from './BindThis';
+import SvgIcon from 'des-svg-icons';
+import { BindThis } from 'des-utilities';
 
 
 export default class DarkMode extends Component {
